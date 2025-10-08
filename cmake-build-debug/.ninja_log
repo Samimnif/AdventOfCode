@@ -1,0 +1,7 @@
+# ninja log v6
+25	223	7815475891090444	CMakeFiles/AdventOfCode.dir/Day1/day1.c.obj	be6ffdc1e06a2fc
+28	178	7814929519129600	CMakeFiles/AdventOfCode.dir/main.c.obj	674567ca0af96c7
+204	426	7815507566642645	AdventOfCode.exe	aad03635064483e3
+22	572	7815818029548814	build.ninja	c9fcf694743b3b9f
+64	274	7815595485481951	CMakeFiles/AdventOfCode.dir/Day2/day2.c.obj	1112945ca93e0c2a
+74	271	7815595485583130	CMakeFiles/AdventOfCode.dir/Day11/day11.c.obj	714f5e1ed9c2b884
